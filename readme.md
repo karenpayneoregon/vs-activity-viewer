@@ -59,4 +59,4 @@ Use the provided utiltity
 
 ## Source code
 
-Clone the following GitHub repository
+Clone the following [GitHub repository](https://github.com/karenpayneoregon/vs-activity-viewer)
