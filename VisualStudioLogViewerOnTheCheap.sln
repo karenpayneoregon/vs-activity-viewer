@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualStudioLogViewer", "VisualStudioLogViewer\VisualStudioLogViewer.csproj", "{FA0A739E-3D4B-4A1F-8FDE-01512F1A36F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDE21EE6-1228-45EA-8C2E-7D0B26C5DD65}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0A739E-3D4B-4A1F-8FDE-01512F1A36F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0A739E-3D4B-4A1F-8FDE-01512F1A36F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0A739E-3D4B-4A1F-8FDE-01512F1A36F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0A739E-3D4B-4A1F-8FDE-01512F1A36F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A7D734-CFFF-4B6B-BD05-502B1A6FF116}
+	EndGlobalSection
+EndGlobal
